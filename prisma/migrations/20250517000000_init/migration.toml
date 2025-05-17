@@ -1,0 +1,6 @@
+# Prisma Migrate schema info
+# This is readonly, it's regenerated whenever you run "prisma migrate dev"
+
+schema_version = "0.1.2"
+migration_name = "init"
+datasource_provider = "postgresql" 
